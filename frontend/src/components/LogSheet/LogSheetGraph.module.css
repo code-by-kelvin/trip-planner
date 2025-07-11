@@ -1,0 +1,33 @@
+.wrapper {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  width: 100px;
+  padding-right: 10px;
+  text-align: right;
+  font-weight: bold;
+}
+
+.cell {
+  width: 40px;
+  height: 30px;
+  border: 1px solid #eee;
+}
+
+.active {
+  background-color: #007bff;
+  border: 1px solid #0056b3;
+}
