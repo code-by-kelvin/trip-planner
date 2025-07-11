@@ -6,7 +6,11 @@ Plan your trips efficiently with this full-stack application that generates a re
 
 ## Screenshots
 
-> _(Add screenshots or demo GIFs here for visual appeal — especially useful for interviews)_
+
+## <img width="1366" height="728" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/0dcfe760-277e-47a7-88bd-ed535c15e933" />
+<img width="1366" height="724" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/24884a08-c4b5-4460-95da-653a52b98099" />
+<img width="1366" height="728" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/d151e574-9950-480a-a2b3-aad240120510" />
+Tips for Using It:
 
 ---
 
@@ -72,10 +76,6 @@ LICENSE
 
 ---
 
-## <img width="1366" height="728" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/0dcfe760-277e-47a7-88bd-ed535c15e933" />
-<img width="1366" height="724" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/24884a08-c4b5-4460-95da-653a52b98099" />
-<img width="1366" height="728" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/d151e574-9950-480a-a2b3-aad240120510" />
-Tips for Using It:
 
 - Save it as `README.md` at the **root of your project**
 - Push it with:
